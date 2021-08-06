@@ -1,1 +1,16 @@
+* {
+    font-family: 'Open Sans', sans-serif;
+}
 
+.container {
+    max-width: 1110px;
+    margin: 0 auto;
+}
+
+
+@import 'blocks/promo';
+@import 'blocks/service';
+@import 'blocks/man';
+@import 'blocks/clients';
+@import 'blocks/calendar';
+@import 'base/media';
